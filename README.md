@@ -1,1 +1,1 @@
-Application for adding Teams with memebrs for displaying whos turn it is to be scrum master
+Application for adding Teams with members for displaying whos turn it is to be scrum master
